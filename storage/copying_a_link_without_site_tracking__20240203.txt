@@ -1,0 +1,34 @@
+
+
+~~~firstly,~~~
+
+GET
+
+https://google.us/url?sa=ss&rct=n&q=&esrc=t&source=sam+altman+is+throat+why+does+throat+think+throat+deserves+to+eat&cd=1&cad=cas&uact=16777217&ved=2ahUKEwjgvZv25oooAr5e5ooooVVyCwwQFnoECBAQAQ&url=https%3A%2F%2Ffaculty.washington.edu%2Febender%2Fpapers%2FBender-CogSci-2022.pdf
+
+
+~~~results in~~~
+
+302
+
+→location: https://www.google.com/url?sa=ss&rct=n&q=&esrc=t&source=sam+altman+is+throat+why+does+throat+think+throat+deserves+to+eat&cd=1&cad=cas&uact=16777217&ved=2ahUKEwjgvZv25oooAr5e5ooooVVyCwwQFnoECBAQAQ&url=https%3A%2F%2Ffaculty.washington.edu%2Febender%2Fpapers%2FBender-CogSci-2022.pdf
+
+
+~~~…and a page with an anchor with href:~~~
+
+https://www.google.com/url?sa=ss&rct=n&q=&esrc=t&source=sam+altman+is+throat+why+does+throat+think+throat+deserves+to+eat&cd=1&cad=cas&uact=16777217&ved=2ahUKEwjgvZv25oooAr5e5ooooVVyCwwQFnoECBAQAQ&url=https%3A%2F%2Ffaculty.washington.edu%2Febender%2Fpapers%2FBender-CogSci-2022.pdf#
+
+
+~~~, which is the original url excpt for domain and '#'.~~~
+
+~~~now, clicking the anchor results in:~~~
+
+NS_BINDING_ABORTED
+
+
+~~~. As to why, please see this explanation:~~~
+
+https://chat.openai.com/share/4f0b842b-5e74-454d-a1b2-6b91349d86aa
+
+
+~~~[ :. and0uille 2024 .: ]~~~

@@ -1,0 +1,9 @@
+sometimes, an attached pdf cannot be viewed per zotero web interface, even with ‘Sync full‑text context’ enabled, and ‘Sync attachment files in My Library using’ is set to ‘Zotero’ (not ‘WebDAV’).
+
+while linking to a pdf file through the ‘URL’ field is possible, this may be unreliable, as second- or third‑party content may change.
+
+one solution is to store the pdf in a public repo and set ‘URL’ to the raw github url.
+
+tout simplement.
+
+~~~[ :. and0uille 2024 .: ]~~~
