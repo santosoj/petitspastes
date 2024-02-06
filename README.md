@@ -13,5 +13,7 @@ accessibly store attachments in ztr while mitigating second- or third‑party 
 overview of what metadata is stored in the structure of a git repository
 - install linux on macbook \[[controlc.com/4c70cea8](https://controlc.com/4c70cea8)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/install_linux_on_macbook__20240206.txt)\]  
 what to do when you have o.k. hardware with shit software on it
+- religion recommended by instrumentality \[[controlc.com/eea4ce38](https://controlc.com/eea4ce38)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/religion_recommended_by_instrumentality__20240206.txt)\]  
+for sustainability on planet earth
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
