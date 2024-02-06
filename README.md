@@ -15,5 +15,7 @@ overview of what metadata is stored in the structure of a git repository
 what to do when you have o.k. hardware with shit software on it
 - religion recommended by instrumentality \[[controlc.com/eea4ce38](https://controlc.com/eea4ce38)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/religion_recommended_by_instrumentality__20240206.txt)\]  
 for sustainability on planet earth
+- sustainability_religion_desktop_background \[[controlc.com/58453e33](https://controlc.com/58453e33)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/sustainability_religion_desktop_background__20240206.txt)\]  
+religious asset: desktop background to remind cultists of sustainability religion
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
