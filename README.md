@@ -8,5 +8,8 @@ on why throat is sam altman and throat thinks throat deserves to eat etc.
 accessibly store attachments in ztr while mitigating second- or third‑party content changes
 - list git metadata locations \[[controlc.com/4eb44823](https://controlc.com/4eb44823)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/list_git_metadata_locations__20240203.txt)\]  
 overview of what metadata is stored in the structure of a git repository
+accessibly store attachments in ztr while mitigating second- or third‑party content changes
+- aliexpress error sc_1 \[[controlc.com/f52a2acc](https://controlc.com/f52a2acc)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/aliexpress_error_sc_1__20240206.txt)\]  
+overview of what metadata is stored in the structure of a git repository
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
