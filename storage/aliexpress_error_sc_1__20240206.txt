@@ -1,0 +1,19 @@
+Morro morro.
+
+You have perfected your AliExpress order.
+
+You have a default payment method.
+
+And yet, when you push the button to finalize the order, this is what appears:
+
+« We had to close this order due to account security concerns. Error Code: SC_1 ».
+
+For suggestions on how to fix this, see below document.
+
+https://archive.org/download/fix-aliexpress-error-code-sc-1/fix_aliexpress_error_code_sc_1.pdf
+
+Also available at the following URI.
+
+https://raw.githubusercontent.com/santosoj/asservatenkammer/main/docs/fix_aliexpress_error_code_sc_1.pdf
+
+[ :. ∧nd @ θλμ ∪ θ☯ἔ ∪ instrumentality .: ]
