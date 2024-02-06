@@ -17,5 +17,7 @@ what to do when you have o.k. hardware with shit software on it
 for sustainability on planet earth
 - sustainability_religion_desktop_background \[[controlc.com/58453e33](https://controlc.com/58453e33)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/sustainability_religion_desktop_background__20240206.txt)\]  
 religious asset: desktop background to remind cultists of sustainability religion
+- latest_p0_incident \[[controlc.com/bde23135](https://controlc.com/bde23135)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/latest_p0_incident__20240207.txt)\]  
+latest p0 incident and what fun dr00_guettes can have with design
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
