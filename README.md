@@ -11,5 +11,7 @@ overview of what metadata is stored in the structure of a git repository
 accessibly store attachments in ztr while mitigating second- or third‑party content changes
 - aliexpress error sc_1 \[[controlc.com/f52a2acc](https://controlc.com/f52a2acc)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/aliexpress_error_sc_1__20240206.txt)\]  
 overview of what metadata is stored in the structure of a git repository
+- aliexpress error sc_1 \[[controlc.com/4c70cea8](https://controlc.com/4c70cea8)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/install_linux_on_macbook__20240206.txt)\]  
+overview of what metadata is stored in the structure of a git repository
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
