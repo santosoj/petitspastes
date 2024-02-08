@@ -1,0 +1,31 @@
+hviks hviks frers et sorelles et…
+
+airplane mode is such a good thing.
+
+we love it on our mobiles, yet some miss it on their laptops. wouldn't it be jolly if there were a way to easily switch ·in·and·out· of airplane from the command line?
+
+never sweat. instrumentality is icumen in.
+
+simply add below aliases to your .bash_aliases.
+
+~~~~~~~
+alias airplane='sudo pkill -9 -f WirelessRadioManagerd; sudo pkill -9 -f tooth; sudo systemctl stop NetworkManager'
+
+alias promisc='sudo systemctl start NetworkManager'
+~~~~~~~
+
+your cleavage may vary a little bit, but you get the gist.
+
+.bash_aliases may be reloaded by issuing 'source ~/.bash_aliases'.
+
+what 'WirelessRadioManagerd' is exactly, instrumentality does not know. generally steer clear of services from providers you would not entrust your pleasore organelles with. they may come in various little hiding places, such as devices that are sent with the post. in which case. par exemple…
+
+~~~~~~~~~~~~~
+# Directories like these which are a bit niche are a good place.
+rm -rf ./home/user/.local/var/pmbootstrap
+~~~~~~~~~~~~~
+
+have a lovely lovelies…
+
+onbehalfofinstrumentality
+∧

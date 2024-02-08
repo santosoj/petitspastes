@@ -21,5 +21,7 @@ religious asset: desktop background to remind cultists of sustainability religio
 latest p0 incident and what fun dr00_guettes can have with design
 - humaine_ou_pas_humaine \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/humaine_ou_pas_humaine__20240209.txt)\]  
 on how to spot when something is created by peoplemaker
+- airplane_mode_for_laptop \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/airplane_mode_for_laptop__20240209.txt)\]  
+in·and·out of laptop airplane mode from the command line
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
