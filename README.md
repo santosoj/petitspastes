@@ -19,5 +19,7 @@ for sustainability on planet earth
 religious asset: desktop background to remind cultists of sustainability religion
 - latest_p0_incident \[[controlc.com/bde23135](https://controlc.com/bde23135)\]·\[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/latest_p0_incident__20240207.txt)\]  
 latest p0 incident and what fun dr00_guettes can have with design
+- humaine_ou_pas_humaine \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/humaine_ou_pas_humaine__20240209.txt)\]  
+on how to spot when something is created by peoplemaker
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
