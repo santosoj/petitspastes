@@ -23,5 +23,7 @@ latest p0 incident and what fun dr00_guettes can have with design
 on how to spot when something is created by peoplemaker
 - airplane_mode_for_laptop \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/airplane_mode_for_laptop__20240209.txt)\]  
 in·and·out of laptop airplane mode from the command line
+- how_to_deal_with_ai \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/how_to_deal_with_ai__20240212.txt)\]  
+how to remain crisp when surrounded by artificial intelligence
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
