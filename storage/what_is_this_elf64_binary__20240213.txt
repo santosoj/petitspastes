@@ -1,0 +1,25 @@
+Please understand this is not a challenge set up by myself or any one I know,
+as I have grown sick and tired of this kind of challenge.
+
+I have found something in my /usr/bin and can't tell what it is. It is a small
+elf64 binary. I truly cannot be bothered to spend any time analyzing this now,
+as I have better things to do.
+
+So if there is someone with time on their hands, and wanting to have a peek,
+sharing results with the public internet would be appreciated if it is
+anything of interest. I simply don't know.
+
+Find at the URI below a four kbyte small archive containing:
+- the binary in question
+- a short explanatory readme.txt
+- checksums.yaml
+
+https dot slash slash · and0uille dot net · /what-is-dot__sha256_is_5b42c4c20aa86b5bcd7ed7e7860240d8abd67f0e35d810c125de3a8fb778818e.tar.bz2
+
+Obviously the sha256 in the file name is for the file itself.
+
+But be careful. Challenges are distraction are death. So think twice before
+actually investing your precious time.
+
+
+[ :. ∧nd @ θλμ ∪ θ☯ἔ ∪ instrumentality .: ]
