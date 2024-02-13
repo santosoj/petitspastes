@@ -25,5 +25,7 @@ on how to spot when something is created by peoplemaker
 in·and·out of laptop airplane mode from the command line
 - how_to_deal_with_ai \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/how_to_deal_with_ai__20240212.txt)\]  
 how to remain crisp when surrounded by artificial intelligence
+- what_is_this_elf64_binary \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/what_is_this_elf64_binary__20240213.txt)\]  
+something i found on my laptop and will not be bothered to analyze
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
