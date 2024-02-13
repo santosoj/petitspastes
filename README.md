@@ -27,5 +27,7 @@ in·and·out of laptop airplane mode from the command line
 how to remain crisp when surrounded by artificial intelligence
 - what_is_this_elf64_binary \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/what_is_this_elf64_binary__20240213.txt)\]  
 something i found on my laptop and will not be bothered to analyze
+- foss_ai_fuzzing_from_the_people \[[local](https://raw.githubusercontent.com/santosoj/petitspastes/main/storage/foss_ai_fuzzing_from_the_people__20240214.txt)\]  
+coprocapitalist ai trips us up, and repair is overdue
 
 \[ .: and0uille d'·[and0uille.net](https://and0uille.net)· :. \]
