@@ -49,4 +49,3 @@ my terms for bigtechs:
 - equivalent of this at time of payment to be paid to my ETH address.
 - because why would And do consulting for bigtech for free.
 - consulting provided in the past needs to be reimbursed for as well.
-- time box: a negative number of minutes.
